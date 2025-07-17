@@ -1,4 +1,4 @@
-# warehouse orderinng system
+# Warehouse Orderinng System
 A simple front-end application for ordering items from a warehouse.
 
 <img width="900" height="400" alt="image" src="https://github.com/user-attachments/assets/8bd76f11-8fa8-4956-99dd-4e4e84e0cb6a" />
